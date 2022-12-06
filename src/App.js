@@ -14,11 +14,12 @@ export default function App() {
   return (
     <div>
 
-{nithish.map(megha=>(
+{/* {nithish.map(megha=>(
   <div key={megha.id}>
   <p>{megha.name}</p>
     </div>
-))}
+))} */}
+
 
 
 
